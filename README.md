@@ -1,5 +1,5 @@
 # Daily Kata
-Daily challenges from Codewar website to document my learning journey and to keep me motivated.
+Daily challenges from Codewars.
 
 ![alt tag](http://placecorgi.com/1200/650)
 
