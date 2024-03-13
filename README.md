@@ -1,7 +1,9 @@
 # Daily Kata
 Daily challenges from Codewars.
 
-![logo](logo.png)
+<div align="center">
+  ![logo](logo.png)
+</div>
 
 ## How It's Done:
 
