@@ -1,7 +1,7 @@
 # Daily Kata
 Daily challenges from Codewars.
 
-![alt tag](http://placecorgi.com/1200/650)
+![File logo](logo.png)
 
 ## How It's Done:
 
