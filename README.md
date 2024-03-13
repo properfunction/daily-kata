@@ -1,11 +1,7 @@
 # Daily Kata
 Daily challenges from Codewars.
 
-<!-- PROJECT LOGO -->
-<div align="center">
-  <a ![Filelogo](logo.png)></a>
-</div>
-
+![logo](logo.png)
 
 ## How It's Done:
 
