@@ -1,7 +1,8 @@
 # Daily Kata
 Daily challenges from Codewars.
 
-![alt tag](logo.png)
+![logo](https://raw.githubusercontent.com/properfunction/daily-kata/master/.github/logo.png)
+
 
 ## How It's Done:
 
