@@ -1,7 +1,12 @@
 # Daily Kata
 Daily challenges from Codewars.
 
-![logo](https://raw.githubusercontent.com/properfunction/daily-kata/master/.github/images/logo.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/properfunction/daily-kata">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
 
 ## How It's Done:
