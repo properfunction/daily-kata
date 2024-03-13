@@ -2,7 +2,9 @@
 Daily challenges from Codewars.
 
 <div align="center">
+
   ![logo](logo.png)
+
 </div>
 
 ## How It's Done:
