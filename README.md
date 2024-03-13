@@ -1,6 +1,12 @@
 # Daily Kata
 Daily challenges from Codewars.
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Done:
