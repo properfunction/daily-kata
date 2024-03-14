@@ -3,7 +3,7 @@ Daily challenges from Codewars.
 
 <div align="center">
 
-  ![logo](logo.png)
+  ![logo](codewars.png)
 
 </div>
 
